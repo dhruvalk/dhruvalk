@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<a href="[https://jeffreychiu.dev/](https://dhruvalk.github.io/)">
+<a href="https://dhruvalk.github.io/">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/dhruval-kothari">
