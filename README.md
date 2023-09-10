@@ -1,5 +1,11 @@
 ### About Me
 
+- 💼 I recently concluded my summer internship as a Software Developer with Danlaw, an automobile services company in Michigan, USA.
+- 💻 My most recent projects include:
+  - [Strong Analytics](https://stronganalytics.netlify.app/) - Dashboard to summarize and visualize data exported from a popular workout tracking app, Strong.
+  - [Keep Fit Mobile](https://play.google.com/store/apps/details?id=com.keepfitmobile) - App for students to help monitor and track fitness goals through gamified learning and leaderboard scoring.
+  - [CCC Website](https://www.cosmiccryptocrusade.io/) - Interactive website to trade NFTs using Ethereum, in collaboration with Gitcoin.
+
 
 <div align="center">
 <a href="https://dhruvalk.github.io/">
