@@ -65,7 +65,9 @@
         <div align="center" width="100%">
           <a href="https://github.com/dhruvalk">
             <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/dhruvalk?cardType=github&theme=github" alt="Dhruval's GitHub Stats" /> -->
-            <img src="https://github-readme-stats.vercel.app/api?username=dhruvalk&show_icons=true&hide=stars&hide_border=true" alt="Dhruval's GitHub Stats" vertical-align="middle"/>
+            <!-- <img src="https://github-readme-stats.vercel.app/api?username=dhruvalk&show_icons=true&hide=stars&hide_border=true" alt="Dhruval's GitHub Stats" vertical-align="middle"/> -->
+              <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">    
+              <img  alt="dhruvalk's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/dhruvalk?cardType=level&preferLogin=false" />  </a>
           </a>
         </div>
         </td>
